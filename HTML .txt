@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Story - Share Your Tale</title>
+  <style>
+    body { font-family: sans-serif; background-color: #fffaf4; color: #333; margin: 0; padding: 0; }
+    header { background: #ff7043; color: white; padding: 20px; text-align: center; }
+    nav { background: #ffe0b2; padding: 10px; text-align: center; }
+    nav a { margin: 0 15px; color: #333; text-decoration: none; font-weight: bold; }
+    section { padding: 20px; }
+    footer { background: #ff7043; color: white; text-align: center; padding: 10px; }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Story</h1>
+    <p>Share your stories with the world</p>
+  </header>
+
+  <nav>
+    <a href="#home">Home</a>
+    <a href="#about">About Us</a>
+    <a href="#submit">Submit Story</a>
+    <a href="#read">Read Stories</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <section id="home">
+    <h2>Welcome!</h2>
+    <p>Here you can read amazing stories and share your own as well.</p>
+  </section>
+
+  <section id="about">
+    <h2>About Us</h2>
+    <p>Story is a platform that brings creative writers and readers together.</p>
+  </section>
+
+  <section id="submit">
+    <h2>Submit Your Story</h2>
+    <p>To submit your story, email us at: <strong>submit@story.com</strong></p>
+  </section>
+
+  <section id="read">
+    <h2>Read Stories</h2>
+    <p>We’ll be adding a list of stories here soon!</p>
+  </section>
+
+  <section id="contact">
+    <h2>Contact Us</h2>
+    <p>Have a question or suggestion? Write to us at: <strong>hello@story.com</strong></p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Story. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
